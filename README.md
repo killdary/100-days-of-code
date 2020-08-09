@@ -6,7 +6,7 @@
 * [Log - click here to see my progress](log.md)
 
 ## Content
-My challenge will be focused on C # and .net core, using as a base the roadmap presented in the following post from the [medium post](https://medium.com/developers-cafe/net-core-developer-roadmap-270bba855f82).
+My challenge will be focused on C # and .net core, using as a base the roadmap presented in the following post from the [medium](https://medium.com/developers-cafe/net-core-developer-roadmap-270bba855f82).
 
 Progress will be briefly documented in the following log [log.md] with a link to a note in evernote with more details of what has been studied and coded each day.
 
