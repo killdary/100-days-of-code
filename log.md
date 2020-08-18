@@ -43,6 +43,13 @@ The basis for this study of efcore is being the book Entity Framework Core in Ac
 These parameters this is a greateful help in architectures with separeted projects, like CQRS.
 
 
+### Day 5: August 14, 2020
+
+**Today's Progress**: VSCode tasks build. 
+
+**Thoughts:** I think it's important to learn how to get the most out of the tools you use, like IDE. For that today I dedicated myself to learn how to automate tasks in vscode. I created some specific tasks to automate migrations in EF Core, instead of typing each command I just need to inform which task I want to use, and inform the environment variables.
+
+
 
 
 
